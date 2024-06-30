@@ -1,18 +1,13 @@
 # testinger
 
-A new Flutter project.
+Alfian Hadi Pratama
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a online testing for Trinity Wizards
 
-- [flutter pub run build_runner build --delete-conflicting-outputs] 
+run this first at terminal 
+- flutter pub get
+- flutter pub run build_runner build --delete-conflicting-outputs
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+then you can run this project
